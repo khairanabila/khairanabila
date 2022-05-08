@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [clifter os](https://github.com/slowy07/clifter-os)
 
-- 💬 Ask me about **system egineering**
+- 💬 Ask me about **system engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
