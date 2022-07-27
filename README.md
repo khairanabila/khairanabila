@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **artificial intelligence**
 
-- 👯 I’m looking to collaborate on [clifter os](https://github.com/slowy07/clifter-os)
+- 👯 I’m looking to collaborate on [literateOS](https://github.com/slowy07/literateOS)
 
 - 💬 Ask me about **system engineering**
 
