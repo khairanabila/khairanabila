@@ -9,5 +9,7 @@
 
 - 💬 Ask me about **system engineering**
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khairanabila&layout=compact&theme=calm)
+
 
 
